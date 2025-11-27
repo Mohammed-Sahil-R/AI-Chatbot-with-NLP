@@ -1,4 +1,15 @@
 # AI-Chatbot-with-NLP
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: MOHAMMED SAHIL R
+
+INTERN ID: CT04DR1393
+
+DOMAIN: PYTHON PROGRAMMING
+
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTOSH
 
 ## Objective:
 To build a functional, rule-based conversational AI Chatbot using Natural Language Processing (NLP) techniques to process user queries and provide contextual answers.
